@@ -29,7 +29,4 @@ Hello! My name is Mario Ortega , and I am a Customs **Transport Agent and Foreig
 | `mv` | Move or rename a file or directory |
 
 ## Interesting Alias ✔
-| Comand | Description |
-| ------- | ----------- | 
-| `alias cl = clear ` | We use it to clean the terminal |
-| `alias rm="trash" ` | To avoid permanently deleting the files |
+ `alias cl = clear ` We use it to clean the terminal | `alias rm="trash" ` To avoid permanently deleting the files .
